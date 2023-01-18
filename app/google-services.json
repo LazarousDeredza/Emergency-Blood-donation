@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33761851882",
+    "project_id": "emergencyblooddonation-41e4e",
+    "storage_bucket": "emergencyblooddonation-41e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33761851882:android:de67bcf9669087b0915a93",
+        "android_client_info": {
+          "package_name": "com.example.emergencyblooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33761851882-817flqli63cm84loc9k94k2k1rb2b8rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWypRIiI4oZ0ZUoYg_uF0ATCXpij17rPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33761851882-817flqli63cm84loc9k94k2k1rb2b8rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
